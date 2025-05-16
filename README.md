@@ -40,14 +40,16 @@ python main.py
 ```
 ### Example
 ## Before Running 
+```
 Downloads/
 ├── photo1.jpg
 ├── resume.pdf
 ├── music.mp3
 ├── video.mp4
 ├── notes.txt
-
-## After Running 
+```
+## After Running
+``` 
 Downloads/
 ├── Images/
 │   └── photo1.jpg
@@ -58,7 +60,7 @@ Downloads/
 │   ├── music.mp3
 │   └── video.mp4
 ├── Others/
-
+```
 
 ### Author 
 ## Made with ❤️ by Sachin Mahapatra
