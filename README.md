@@ -33,10 +33,11 @@ If the folders don’t exist, they will be automatically created.
 ```bash
 git clone https://github.com/SachinnMahapatra/File-Organizer.git
 cd File-Organizer
-
-### 📥 Step 1: Run The Script
+``` 
+### 📥 Step 2: Run The Script
+```bash
 python main.py
-
+```
 ### Example
 ## Before Running 
 Downloads/
